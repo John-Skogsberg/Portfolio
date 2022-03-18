@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="bootstrap-grid.css" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176692580525" remote="132300852930000000" Dst="2" />
+<file name="bootstrap-grid.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176040968113" remote="132300852930000000" Dst="2" />
+<file name="bootstrap-reboot.css" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176662481009" remote="132300852940000000" Dst="2" />
+<file name="bootstrap-reboot.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176041157600" remote="132300852940000000" Dst="2" />
+<file name="bootstrap.css" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176835408639" remote="132300852960000000" Dst="2" />
+<file name="bootstrap.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176041367360" remote="132300852960000000" Dst="2" />
+<file name="_alert.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176031942241" remote="132300853190000000" Dst="2" />
+<file name="_badge.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176032191610" remote="132300853200000000" Dst="2" />
+<file name="_breadcrumb.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176032391061" remote="132300853200000000" Dst="2" />
+<file name="_button-group.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176032620595" remote="132300853200000000" Dst="2" />
+<file name="_buttons.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176032820152" remote="132300853210000000" Dst="2" />
+<file name="_card.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176033009390" remote="132300853210000000" Dst="2" />
+<file name="_carousel.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176033198911" remote="132300853210000000" Dst="2" />
+<file name="_close.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176033378754" remote="132300853220000000" Dst="2" />
+<file name="_code.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176033587849" remote="132300853220000000" Dst="2" />
+<file name="_custom-forms.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176033807405" remote="132300853230000000" Dst="2" />
+<file name="_dropdown.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176033997075" remote="132300853230000000" Dst="2" />
+<file name="_forms.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176034196452" remote="132300853240000000" Dst="2" />
+<file name="_functions.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176034405899" remote="132300853240000000" Dst="2" />
+<file name="_grid.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176034595469" remote="132300853250000000" Dst="2" />
+<file name="_images.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176034774701" remote="132300853250000000" Dst="2" />
+<file name="_input-group.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176034994099" remote="132300853250000000" Dst="2" />
+<file name="_jumbotron.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176035183820" remote="132300853260000000" Dst="2" />
+<file name="_list-group.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176035373314" remote="132300853260000000" Dst="2" />
+<file name="_media.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176035572796" remote="132300853260000000" Dst="2" />
+<file name="_mixins.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176035752250" remote="132300853270000000" Dst="2" />
+<file name="_modal.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176035961733" remote="132300853270000000" Dst="2" />
+<file name="_nav.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176036141016" remote="132300853270000000" Dst="2" />
+<file name="_navbar.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176036340826" remote="132300853280000000" Dst="2" />
+<file name="_pagination.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176036549930" remote="132300853280000000" Dst="2" />
+<file name="_popover.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176036749780" remote="132300853280000000" Dst="2" />
+<file name="_print.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176036978773" remote="132300853290000000" Dst="2" />
+<file name="_progress.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176037248078" remote="132300853290000000" Dst="2" />
+<file name="_reboot.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176037567209" remote="132300853300000000" Dst="2" />
+<file name="_root.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176037806567" remote="132300853300000000" Dst="2" />
+<file name="_spinners.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176038006392" remote="132300853300000000" Dst="2" />
+<file name="_tables.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176038195835" remote="132300853310000000" Dst="2" />
+<file name="_toasts.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176038365442" remote="132300853310000000" Dst="2" />
+<file name="_tooltip.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176038574825" remote="132300853310000000" Dst="2" />
+<file name="_transitions.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176038773986" remote="132300853320000000" Dst="2" />
+<file name="_type.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176038963477" remote="132300853320000000" Dst="2" />
+<file name="_utilities.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176040520698" remote="132300853320000000" Dst="2" />
+<file name="_variables.scss" server="34.207.137.158//var/www/html/web_bootstrap/" local="132298176040748705" remote="132300853340000000" Dst="2" />
+</dwsync>
