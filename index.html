@@ -14,38 +14,61 @@
     
 
     <!-- Bootstrap CSS -->
-	  <link rel="stylesheet" href="css/bootstrap.css">
+	  <!--<link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-
-	  <link href="css/cover.css" rel="stylesheet">
+    -->
+	  <!--<link href="css/cover.css" rel="stylesheet">-->
 	  
     <title>John Skogsberg Portfolio</title>
   </head>
 	<style>
     html{
-      //background-image: url('images/background.jpg');
-      background-image: url('images/Newbackground.jpg');
+        background-image: url('images/Newbackground.jpg');
       	background-color: black;
 			  background-size: 100% 100%;
 			  background-attachment: fixed;
     	}
-		body{
+		/*body{
 			
 			background-color: rgba(255, 255, 255, 0);
-			
-		}
+
+		}*/
 		
-		div{
+		/*div{
 			width: 900px;
 			text-align: center;
 			
-		}
-		
-		.nav-link:hover{
+		}*/
+    body{
+      color: white;
+    }
+
+    nav{
+      display: flex;
+      align-items: center;
+      
+      justify-content: space-between;
+      padding-top: 40px;
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+    nav ul li{
+      list-style-type: none;
+      display: inline-block;
+      padding: 10px, 20px;
+    }
+		nav ul li a{
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      
+    }
+		nav ul li a:hover{
 			background-color: #660066 !important;
 			padding: 10px;
 			border-radius: 15px;
 		}
+
 		main{
 			//position: absolute;
 			//top: 100px !important;
@@ -67,23 +90,22 @@
     
 	</style>
   <body>
-  <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
+  <div>
+    <nav>
+    <h3>John Skogsberg Portfolio &nbsp; &nbsp;</h3>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="Resume.html">Resume</a></li>      
+        <li><a href="Engineering.html">Engineering</a></li>
+        <li><a href="3DArt.html">3D Art</a></li>
+        <li><a href="Development.html">Development</a></li>
+        <li><a href="Esports.html">Coaching</a></li>
+        <li><a href="video.html">Video Production</a></li>
+      </ul>      
+    </nav>
+  </div>
     
-  <header class="masthead mb-auto">
-    <div class="inner">
-      <h3 class="masthead-brand">John Skogsberg Portfolio &nbsp; &nbsp;</h3>
-      <nav class="nav nav-masthead justify-content-center">
-        <a class="nav-link active" href="index.html">Home</a>
-        <a class="nav-link" href="Resume.html">Resume</a>
-        <!--<a class="nav-link" href="contact.html">Contact</a>-->
-    <a class="nav-link" href="Engineering.html">Engineering</a>
-    <a class="nav-link" href="3DArt.html">3D Art</a>
-    <a class="nav-link" href="Development.html">Development</a>
-    <a class="nav-link" href="Esports.html">Coaching</a>
-		<a class="nav-link" href="video.html">Video Production</a>
-      </nav>
-    </div>
-  </header>
+  
 
   <main role="main" class="inner cover">
     <h1 class="cover-heading">Welcome&nbsp;</h1>
@@ -94,7 +116,7 @@
     <p class="lead">
       <a  href="mailto:gourdheaddryden001@gmail.com">
       <i class="fa fa-envelope" style="font-size:70px;color:white"></i>
-        <p>Business Email: gourdheaddryden001@gmail.com</p>
+        <p >Business Email: gourdheaddryden001@gmail.com</p>
       </a>
       </p>
     <div class="videoback">
