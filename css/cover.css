@@ -16,6 +16,8 @@ html{
 }
 .float-banner{
   float:left;
+  padding-right: 0.2vw;
+  padding-bottom: 0.5vh;
 }
 .float content{
   float:right;
