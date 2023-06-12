@@ -92,3 +92,28 @@ body{
 main{
   padding-top: 5vh;
 }
+
+.gallery{
+  margin: 5px;
+  border: 1px solid rgba(255, 255, 255, 0.452);
+  float: left;
+  width: 390px;
+  //height: 250px;
+  height: auto;
+}
+.gallery img{
+  width: 100%;
+  height: auto;
+}
+.gallery video{
+  width: 100%;
+  height: auto;
+}
+.gallery iframe{
+  width: 100%;
+  height: auto;
+}
+.desc{
+  padding: 15px;
+  text-align: center;
+}
