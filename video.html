@@ -21,18 +21,12 @@
 	  
     <title>Video production</title>
   </head>
-	<style>
-		html{
-  background-image: url('images/Background6_15_23.png');
-  background-color: black;
-  background-size: 100% 100%;
-  background-attachment: fixed;
-}
-		
-    video{
+	<style>		
+    .float-content video{
       left: 50%;
       width: 600px;
     }
+    
 		
 	</style>
   <body>
@@ -58,7 +52,11 @@
         </ul>      
       </nav>
     </div>
-
+    <div class="videoback">
+      <video autoplay loop muted>
+        <source src="images/Background_6_15_23.mp4" type="video/mp4">
+      </video>
+    </div>
     <div class="float-content">
       <iframe width="560" height="315" src="https://www.youtube.com/embed/4T8v3oY6I7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       <main role="main" class="inner cover">
